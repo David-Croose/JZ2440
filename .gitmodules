@@ -1,0 +1,9 @@
+[submodule "uboot"]
+	path = uboot
+	url = https://github.com/David-Croose/add_jz2440_to_uboot2016.git
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/David-Croose/my_buildroot.git
+[submodule "linux"]
+	path = linux
+	url = https://github.com/David-Croose/add_jz2440_to_linux4.14.1.git
