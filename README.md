@@ -22,6 +22,7 @@ now starting compile:
 ```
 $ cd buildroot
 $ make ARCH=arm jz2440_defconfig
+$ make ARCH=arm
 ```
 
 add toolchain to your PATH, this is sufficient for compiling uboot and linux in the latter:
